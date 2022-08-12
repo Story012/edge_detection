@@ -9,6 +9,6 @@ git clone https://github.com/Story012/edge_detection.git
 mkdir build && cd build
 cmake ..
 make
-./<executable"name_here>
+./<executable_name_here>
 ```
 Please review the CMakeLists.txt as some files are commented out for modifications. This repository doubles as a cloud storage for certain scripts.
